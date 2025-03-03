@@ -68,12 +68,12 @@ style="Padding-right: 10px"
 src="https://github-readme-stats.vercel.app/api?username=Andre-Rodriguesjr&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br"
 >
 <img
-align="left"
-alt="Git Status"
-height="200"
-style="Padding-right: 10px;"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-Rodriguesjr&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=7"
->
+    align="left"
+    alt="Linguagens mais usadas"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-Rodriguesjr&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=7"
+/>
+
 
 
 </p>
