@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Backend`**
 
-Meu nome é André Rodrigues Miranda Júnior, tenho 22 anos e sou natural de Brasília. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas pela Faculdade Projeção.Tenho foco no desenvolvimento Back-End, especialmente com alinguagem Java. Atualmente, estou me aprimorando em Java e iniciando meus estudos em Spring Boot para construção de APIs e microsserviços.
+Meu nome é André Rodrigues Miranda Júnior, tenho 22 anos e sou natural de Brasília. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas pela Faculdade Projeção.Tenho foco no desenvolvimento Back-End, especialmente com a linguagem Java. Atualmente, estou me aprimorando em Java e iniciando meus estudos em Spring Boot para construção de APIs e microsserviços.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/andr%C3%A9-rodrigues-884689240/">
